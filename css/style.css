@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(119, 0, 255);
+}
+
+h1{
+    font-size: 2em;
+}
+
+body{
+    background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(1,196,244,1) 0%, rgba(97,0,255,1) 0%, rgba(9,9,121,0) 26%);
+    background-repeat: no-repeat;
+}
